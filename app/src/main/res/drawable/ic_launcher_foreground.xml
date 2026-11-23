@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Circular exchange arrows + central shared package motif inside 66dp safe zone (21..87) -->
+    <!-- Top curved arrow sweeping right -->
+    <path
+        android:fillColor="#DCE6F1"
+        android:pathData="M31.5,46.0 C34.8,33.5 46.2,25.5 59.0,27.0 C64.2,27.6 68.8,29.8 72.5,33.0 L76.0,29.5 L77.5,40.5 L66.5,39.0 L69.3,36.2 C66.2,33.6 62.4,31.9 58.2,31.4 C47.7,30.2 38.4,36.8 35.8,47.0 Z" />
+    <!-- Bottom curved arrow sweeping left -->
+    <path
+        android:fillColor="#DCE6F1"
+        android:pathData="M76.5,62.0 C73.2,74.5 61.8,82.5 49.0,81.0 C43.8,80.4 39.2,78.2 35.5,75.0 L32.0,78.5 L30.5,67.5 L41.5,69.0 L38.7,71.8 C41.8,74.4 45.6,76.1 49.8,76.6 C60.3,77.8 69.6,71.2 72.2,61.0 Z" />
+    <!-- Upper lending hand -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M67.0,45.5 L57.5,45.5 C55.6,45.5 54.0,46.4 53.0,47.8 L51.0,50.5 L55.2,50.5 L56.8,48.6 L67.0,48.6 Z" />
+    <!-- Lower receiving hand -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M41.0,62.5 L50.5,62.5 C52.4,62.5 54.0,61.6 55.0,60.2 L57.0,57.5 L52.8,57.5 L51.2,59.4 L41.0,59.4 Z" />
+    <!-- Shared supply box in center -->
+    <path
+        android:fillColor="#9BB5CE"
+        android:pathData="M47.0,49.0 L54.0,45.5 L61.0,49.0 L61.0,57.5 L54.0,61.0 L47.0,57.5 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54.0,45.5 L61.0,49.0 L54.0,52.5 L47.0,49.0 Z" />
+</vector>

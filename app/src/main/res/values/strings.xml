@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Gamiturn</string>
+    <string name="tagline">Borrow what you need, when you need it!</string>
+    <string name="subtitle_hero">A smarter way to borrow, lend, and share everyday essentials.</string>
+    <string name="create_account_title">Create account</string>
+    <string name="verified_students_only">Verified students only</string>
+    <string name="why_we_verify_title">Why we verify</string>
+    <string name="why_we_verify_body">Your valid ID confirms you are a student. It is never shown publicly.</string>
+    <string name="nav_browse">Browse</string>
+    <string name="nav_search">Search</string>
+    <string name="nav_lend">Lend</string>
+    <string name="nav_requests">Requests</string>
+    <string name="nav_chat">Chat</string>
+    <string name="browse_items_title">Browse items</string>
+    <string name="search_title">Search</string>
+    <string name="item_details_title">Item details</string>
+    <string name="borrowing_request_title">Borrowing request</string>
+    <string name="requests_title">Requests</string>
+    <string name="profile_title">Student profile</string>
+</resources>

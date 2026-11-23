@@ -1,0 +1,6 @@
+{
+  "name": "Gamiturn",
+  "description": "A student peer-to-peer app to borrow, lend, and share school supplies and gadgets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
